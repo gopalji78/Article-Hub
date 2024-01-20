@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "What is Direct Connect in AWS?",
+      "datetime": "January 19, 2024 4:59:24 PM",
+      "body": "Most of the modern IT infrastructure use hybrid application that is deployed along multiple cloud platforms or multiple locations. The typical connection between that environment travels through VPN Tunnel over the public internet. Thus a connection might suffer in case of unpredictable internet connection, latency, or loss of private customers’ data. So a dedicated connection is needed between data centers and offices.\n\nHere comes the Direct Connect in the picture, networking services provided by Amazon Web Services (AWS). It provides a dedicated network connection over standard Ethernet fiber-optic cable between your data center (on-premises data center) and AWS Direct connect location that completely bypasses the public networks coming in between."
+    },
+    {
+      "id": "2",
+      "title": "Diffie-Hellman Key Exchange and Perfect Forward Secrecy",
+      "datetime": "January 19, 2024 4:59:53 PM",
+      "body": "In the era of modernization where every information has to pass through insecure public networks, where information to always vulnerable to potential active and passive attacks, information security is of paramount importance. Encrypting the information helps a lot of problems as it addresses the issue of confidentiality, where the information is encrypted by the sender with the public key of the receiver, and then sent over the network, which is then decrypted by the private key of the receiver. But the integrity was still an issue. In the following article, we will have a discussion on how the Diffie-Hellman Key Exchange Algorithm helped in shared key cryptography."
+    },
+    {
+      "id": "3",
+      "title": "Difference Between Alternator and Generator",
+      "datetime": "January 19, 2024 5:00:36 PM",
+      "body": "Alternator and Generator are electrical devices used to generate electricity. They have a wide range of applications, from power generation to providing electricity in portable devices. Fundamentally both the devices are the same, but they differ in mode of operation and also have different characteristics.\n\nIn this article, we’ll discuss and understand what are Alternators and Generators, their working, and the differences based on various key characteristics."
+    },
+    {
+      "id": "4",
+      "title": "Permittivity and Permeability",
+      "datetime": "January 19, 2024 5:00:56 PM",
+      "body": "Permittivity and Permeability are two fundamental properties of materials that play a crucial role in the behavior of electromagnetic waves and related fields. Permittivity, represented by the symbol ε (epsilon), describes a material’s ability to permit the electric field to pass through it. Permittivity is a measure of how easily electric charges can be separated within the material in response to an applied electric field. On the other hand, Permeability, denoted as μ (mu), characterizes a material’s ability to allow magnetic fields to pass through it. Permeability represents how readily magnetic flux can propagate within the material when subjected to a magnetic field."
+    },
+    {
+      "id": "5",
+      "title": "What is Electric Flux?",
+      "datetime": "January 19, 2024 5:01:24 PM",
+      "body": "Electric flux is a fundamental concept in physics that helps us understand and quantify the electric field passing through a given surface. It provides a means to describe the flow of electric field lines through an area. Electric flux forms the basis of Gauss’s Law, to calculate the net charge enclosed inside a given Gaussian surface, which says that the flux through a surface will be the result of the total (or net) charge enclosed inside it.\n\nIn this article, we will learn about the basics of electric flux, its types, electric flux density, and electric flux through various types of surfaces."
+    },
+    {
+      "id": "6",
+      "title": "118 Elements and Their Symbols",
+      "datetime": "January 19, 2024 5:01:44 PM",
+      "body": "Everything in the universe is composed of basic elements, and at their smallest level, these elements are atoms. There are a total of 118 elements in the modern periodic table out of which 98 are found in nature rest are chemically synthesized in laboratories. An atom of any element is composed of electrons, protons, and neutrons and possesses a different property from the other.\n\nThis article is the tabulated view of atomic number (number of protons), atomic mass, and number of neutrons of all 118 elements along with their symbols."
+    },
+    {
+      "id": "7",
+      "title": "Exponential Graph",
+      "datetime": "January 19, 2024 5:02:09 PM",
+      "body": "Exponential Graph is a curve that represents the exponential function. Exponential function graph is a graph with a horizontal asymptote that can have increasing and decreasing slope depending on the case. Graphing exponential function is very important as it represents various aspects of life such as the growth of population in a country, the spread of viruses, etc.\n\nIn this article, we will learn about, Exponential Function graphs, How to Plot Exponential Functions, Examples of Exponential Functions, and others in detail."
+    },
+    {
+      "id": "8",
+      "title": "What is Project Commitment ?",
+      "datetime": "January 19, 2024 5:02:29 PM",
+      "body": "In a competing world of business and technology, the growth and prosperity of any organization highly depend on successful project execution. In successful project execution, project management is crucial and the project manager is the sole of project management, responsibly handling and coordinating all intermediatory steps in the development of the project. In this article, we will discuss various roles and responsibilities of the project manager in detail."
+    }
+  ]
+}
